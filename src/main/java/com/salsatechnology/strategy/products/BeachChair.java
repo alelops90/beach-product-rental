@@ -1,6 +1,5 @@
 package com.salsatechnology.strategy.products;
 
-import com.salsatechnology.dto.ProductOrderRequest;
 import com.salsatechnology.model.ProductOrder;
 import com.salsatechnology.model.ProductType;
 import com.salsatechnology.strategy.CreateProductOrder;
